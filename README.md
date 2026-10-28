@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Mitra</h1>
 <h3 align="center">AI/ML Engineer | Backend Systems | Cloud & Scalable Architectures</h3>
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abhi986shek&show_icons=true&theme=dracula" height="150"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Abhi986shek&layout=compact&theme=dracula" height="150"/>
-</p>
-
----
 
 ## 🚀 About Me
 
